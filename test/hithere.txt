@@ -1,0 +1,3 @@
+Hi every body!
+I test branching in Git.
+
